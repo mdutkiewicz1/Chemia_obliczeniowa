@@ -1,0 +1,9 @@
+Transition      Energy(eV)	Wavelength(nm)	fosc(D2)(au**2)      
+                                                    
+def2-SVP: 
+0-1A -> 13-1A	7.690928	161.2		0.520662848 
+ma-def2-SVP:
+0-1A -> 22-1A 	7.041855	176.1		0.401108511 
+
+
+Dodanie funkcji dyfuzyjnych prowadzi do obniżenia energii najbardziej intensywnego przejścia(z ~7.7eV do ~7eV), ponieważ lepiej opisują one orbitale wirtualne(niezajęte w stanie podstawowym przez elektrony) znajdujące się daleko od jąder atomowych -> są one bardziej rozciągnięte przestrzennie, więc wzbudzony elektron znajdujący się na takim orbitalu ma mniejszą energię(kinetyczną -> całkowitą) zgodnie z zasadą nieoznaczoności Heisenberga.(energia potencjalna rośnie wraz z odległośćią od jądra, ale w mniejszym stopniu)
